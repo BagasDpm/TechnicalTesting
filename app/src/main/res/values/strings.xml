@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GLI</string>
+    <string name="judul">Login</string>
+    <string name="email">Email Anda</string>
+    <string name="pass">Password Anda</string>
+    <string name="inkwell">Lupa password?</string>
+    <string name="button">Masuk</string>
+
+    <string name="photo">Foto Profile</string>
+    <string name="Appbar">Contact List</string>
+    <string name="ic_back">Back</string>
+    <string name="ic_edit">Edit</string>
+    <string name="ic_close">CLose</string>
+    <string name="name">CS Telkomsel</string>
+    <string name="phone">081293551227</string>
+</resources>
